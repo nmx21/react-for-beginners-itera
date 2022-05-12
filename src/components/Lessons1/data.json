@@ -1,0 +1,12 @@
+{
+  "name": "SomeName",
+  "biography": {
+    "year": "2000",
+    "interest": "internet",
+    "ToDo": "Some list"
+  },
+  "contact":{
+    "phone":"+380671112233",
+    "email":"some@email.org"
+  }
+}
